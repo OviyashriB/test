@@ -140,7 +140,7 @@ class Esma_obj(BasePage):
     #     print(f"Total 'View Details' elements found: {found_details}")
 
 
-    # #dynamically changing captchas proof
+    #dynamically changing captchas proof
     # def enter_captcha(self, driver):
     #     while True:
     #         # Find the captcha image element
